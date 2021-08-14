@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Results</string>
+    <string name="select_type">Select Type</string>
+    <string name="select_batch">Select Batch</string>
+    <string name="select_semester">Select Semester</string>
+    <string name="enter_student_roll_number">Enter Student Roll Number</string>
+    <string name="clear_all">Clear all</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="view_marksheet">View MarkSheet</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+</resources>
